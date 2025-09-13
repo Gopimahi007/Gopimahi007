@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gopi! Welcome to my GitHub Profile.
 
-I'm a Data Analyst from Kuhalur, Tamil Nadu, with a passion for uncovering insights from data and using them to tell compelling stories. I enjoy transforming complex datasets into clear, actionable intelligence using a blend of statistical analysis and powerful visualization tools.
+I'm a Data Analyst, with a passion for uncovering insights from data and using them to tell compelling stories. I enjoy transforming complex datasets into clear, actionable intelligence using a blend of statistical analysis and powerful visualization tools.
 
 - 🔭 I’m currently working on an end-to-end sales dashboard project using SQL and Power BI.
 - 🌱 I’m deepening my knowledge of advanced statistical modeling and Python's data science libraries.
