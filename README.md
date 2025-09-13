@@ -1,33 +1,38 @@
-# 👋 Hello! I'm Gopi Mahendran
+# 👋 Hi, I'm Gopi! Welcome to my GitHub Profile.
 
-*A Full-Stack Developer with a passion for creating elegant and functional web solutions.*
+I'm a Data Analyst from Kuhalur, Tamil Nadu, with a passion for uncovering insights from data and using them to tell compelling stories. I enjoy transforming complex datasets into clear, actionable intelligence using a blend of statistical analysis and powerful visualization tools.
+
+- 🔭 I’m currently working on an end-to-end sales dashboard project using SQL and Power BI.
+- 🌱 I’m deepening my knowledge of advanced statistical modeling and Python's data science libraries.
+- 👯 I’m looking to collaborate on open-source projects related to data analysis and visualization.
+- 📫 How to reach me: **[your.email@example.com]**
 
 ---
 
-### 🛠️ Technologies & Tools
+### 📊 My Data Analytics Toolkit
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Statistics](https://img.shields.io/badge/-Statistics-5A6978?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 📊 My GitHub Stats
+### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopimahi007&show_icons=true&theme=radical" alt="Gopimahi007's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopimahi007&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopimahi007&show_icons=true&theme=tokyonight" alt="Gopimahi007's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopimahi007&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Let's Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter Profile" height="30" width="40" /></a>
 </p>
