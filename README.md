@@ -28,11 +28,18 @@ I'm a Data Analyst from Kuhalur, Tamil Nadu, with a passion for uncovering insig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopimahi007&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----### 🔗 Let's Connect!
+### 🔗 Let's Connect!
 
 <p align="left">
-<a href="https://gopika-ai.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="My Portfolio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-linkedin-profile-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gopika S | LinkedIn" height="30" width="40" /></a>
-<a href="mailto:gopikasakthivel1979@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gopikasakthivel1979@gmail.com" height="30" width="40" /></a>
+  <a href="https://gopika-ai.netlify.app/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="My Portfolio" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile-url" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:gopikasakthivel1979@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
+
 
