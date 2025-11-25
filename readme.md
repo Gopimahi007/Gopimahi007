@@ -1,23 +1,29 @@
-[//]: # (USERNAME: gopimahi007)
+<!-- ================================
+ 🌟 GITHUB PROFILE README — Gopika S
+ Professionally designed unified-theme profile
+=================================== -->
+
+<!-- CONFIG -->
+[//]: # (USERNAME: Gopimahi007)
 [//]: # (THEME: tokyonight)
 
-# 👋 Hi, I'm **Gopika S!**
-### 💼 Data Analyst | 📊 Insight Storyteller | 🧠 Data-Driven Thinker
+# 👋 Hi, I'm **Gopika S!**  
+### 💼 Data Analyst | 📊 Insight Storyteller | 🧠 Data-Driven Thinker  
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!  
 I specialize in **turning raw data into meaningful insights**, using analytical techniques, visualization tools, and statistical reasoning to support informed decision-making.
 
-I enjoy exploring datasets, identifying trends, and communicating findings through dashboards, reports, and clear narratives.
+I enjoy exploring datasets, identifying patterns, and communicating results through clear insights, dashboards, and reports.
 
 ---
 
 ## 🎯 **About Me**
 
-- 🔭 Currently working on an **end-to-end Sales Analytics Dashboard** using **SQL + Power BI**
-- 📚 Learning **advanced statistics**, probability models & Python data libraries
-- 🤝 Open to collaborating on **data analytics & visualization projects**
-- 🌍 Based in **Erode, India**
-- ✨ Passion: Transform data → insights → impact
+- 🔭 Currently building an **End-to-End Sales Analytics Dashboard** (SQL + Power BI)  
+- 📚 Learning advanced **statistics, probability models**, and **Python data libraries**  
+- 🤝 Open to collaborating on **data analytics and visualization projects**  
+- 🌍 Based in **Erode, India**  
+- ✨ Passion: Turning **data → insights → impact**  
 
 ---
 
@@ -38,8 +44,8 @@ I enjoy exploring datasets, identifying trends, and communicating findings throu
 ## 📈 **GitHub Stats (Unified Theme)**
 
 <p align="center">
-  <img src="https://gopimahi007.vercel.app/api?username=Gopimahi007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://gopimahi007.vercel.app/api/top-langs/?username=Gopimahi007&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopimahi007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopimahi007&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 ---
@@ -47,7 +53,7 @@ I enjoy exploring datasets, identifying trends, and communicating findings throu
 ## 🔥 **GitHub Streak**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gopimahi007&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopimahi007&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 ---
@@ -55,7 +61,7 @@ I enjoy exploring datasets, identifying trends, and communicating findings throu
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gopimahi007&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gopimahi007&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
