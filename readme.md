@@ -35,7 +35,7 @@ I enjoy exploring datasets, identifying trends, and communicating findings throu
 
 ---
 
-## 📈 **GitHub Stats (Unified Theme)**
+## 📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://gopimahi007.vercel.app/api?username=Gopimahi007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
