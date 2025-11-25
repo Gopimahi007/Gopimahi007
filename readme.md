@@ -59,6 +59,21 @@ I enjoy exploring datasets, identifying trends, and communicating findings throu
 </p>
 
 ---
+### 🌱 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopimahi007&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 👀 Profile Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gopimahi007&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
+---
 
 ## 📬 **Connect With Me**
 
