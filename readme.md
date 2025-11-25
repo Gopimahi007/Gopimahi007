@@ -1,30 +1,23 @@
-<!-- ================================
- 🌟 GITHUB PROFILE README — Gopika S
- Professionally designed unified-theme profile
-=================================== -->
-
-<!-- CONFIG -->
 [//]: # (USERNAME: Gopimahi007)
 [//]: # (THEME: tokyonight)
-[//]: # (VERCEL: https://gopimahi007.vercel.app)
 
-# 👋 Hi, I'm **Gopika S!**  
-### 💼 Data Analyst | 📊 Insight Storyteller | 🧠 Data-Driven Thinker  
+# 👋 Hi, I'm **Gopika S!**
+### 💼 Data Analyst | 📊 Insight Storyteller | 🧠 Data-Driven Thinker
 
-Welcome to my GitHub profile!  
-I specialize in **turning raw data into meaningful insights**, using analytics, statistics, and visualization tools to convert data → insights → impact.
+Welcome to my GitHub profile!
+I specialize in **turning raw data into meaningful insights**, using analytical techniques, visualization tools, and statistical reasoning to support informed decision-making.
 
-I enjoy exploring datasets, identifying hidden patterns, and creating dashboards that tell powerful data stories.
+I enjoy exploring datasets, identifying trends, and communicating findings through dashboards, reports, and clear narratives.
 
 ---
 
 ## 🎯 **About Me**
 
-- 🔭 Working on an **end-to-end Sales Analytics Dashboard** (SQL + Power BI)
-- 📚 Learning **advanced statistics**, probability models & Python analytics
+- 🔭 Currently working on an **end-to-end Sales Analytics Dashboard** using **SQL + Power BI**
+- 📚 Learning **advanced statistics**, probability models & Python data libraries
 - 🤝 Open to collaborating on **data analytics & visualization projects**
-- 📍 From **Erode, India**
-- ✨ Passionate about **data storytelling & decision intelligence**
+- 🌍 Based in **Erode, India**
+- ✨ Passion: Transform data → insights → impact
 
 ---
 
@@ -45,7 +38,7 @@ I enjoy exploring datasets, identifying hidden patterns, and creating dashboards
 ## 📈 **GitHub Stats (Unified Theme)**
 
 <p align="center">
-  <img src="https://gopimahi007.vercel.app/api?username=Gopimahi007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://gopimahi007.vercel.app/api?username=Gopimahi007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://gopimahi007.vercel.app/api/top-langs/?username=Gopimahi007&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
@@ -84,5 +77,4 @@ I enjoy exploring datasets, identifying hidden patterns, and creating dashboards
 ---
 
 ## ✨ **Quote I Believe In**
-
 > *“Data is a precious thing and will last longer than the systems themselves.”* — Tim Berners-Lee
